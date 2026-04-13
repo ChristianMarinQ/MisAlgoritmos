@@ -1,0 +1,25 @@
+Descripción del Proyecto
+
+Este proyecto tiene como objetivo analizar el rendimiento y la complejidad de cinco algoritmos clásicos de ordenamiento,
+implementados en dos lenguajes de programación:
+
+- Java (lenguaje compilado)
+- Python (lenguaje interpretado)
+
+Los algoritmos evaluados son:
+
+- Shaker Sort
+- Dual-Pivot QuickSort
+- Heap Sort
+- Merge Sort
+- Radix Sort
+
+Cada algoritmo se ejecuta con tres tamaños de arreglo:
+
+- 10,000 elementos
+- 100,000 elementos
+- 1,000,000 elementos
+
+Los datos son números aleatorios de 8 dígitos, generados una única vez y almacenados en un archivo de texto plano. 
+Los tiempos de ejecución se registran excluyendo la lectura y escritura de archivos.
+Los resultados se exportan a CSV y se visualizan en un gráfico comparativo de barras.

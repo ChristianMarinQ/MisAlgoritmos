@@ -1,0 +1,4 @@
+Language,Array Size,Binary,Ternary,Jump
+Java,10000,1,1,1
+Java,100000,0,0,0
+Java,1000000,0,0,0
